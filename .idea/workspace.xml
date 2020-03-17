@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="786138f1-a314-4ef9-92ad-688c7991497c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    <list default="true" id="df319a6f-c160-4fb4-a22e-7fdedda690d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="feature/bootstrapGrid" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YRK1IPdxdQYg50vBlLSAt2W1GR" />
+  <component name="ProjectId" id="1YwVKNMVr2fSRn2LBL77CvmLaZM" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,41 +37,100 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="786138f1-a314-4ef9-92ad-688c7991497c" name="Default Changelist" comment="" />
-      <created>1582899749610</created>
+      <changelist id="df319a6f-c160-4fb4-a22e-7fdedda690d7" name="Default Changelist" comment="" />
+      <created>1583853578707</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582899749610</updated>
-      <workItem from="1582899751397" duration="358000" />
-      <workItem from="1582900179255" duration="10000" />
-      <workItem from="1582900206217" duration="221000" />
-      <workItem from="1582900498384" duration="36000" />
-      <workItem from="1582900546360" duration="100000" />
-      <workItem from="1582900723640" duration="44000" />
-      <workItem from="1582900800481" duration="18000" />
-      <workItem from="1582900834734" duration="92000" />
-      <workItem from="1582900955978" duration="168000" />
-      <workItem from="1582901211639" duration="538000" />
-      <workItem from="1582901873852" duration="477000" />
-      <workItem from="1583492248224" duration="2877000" />
+      <updated>1583853578707</updated>
+      <workItem from="1583853581750" duration="2928000" />
+      <workItem from="1583929145026" duration="55000" />
+      <workItem from="1584367327461" duration="2654000" />
+      <workItem from="1584444139148" duration="373000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor code">
+      <created>1583854207301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583854207301</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new file and navigation">
+      <created>1583855506199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583855506199</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new bootstrap">
+      <created>1583856432681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583856432681</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add footer">
+      <created>1584367988633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584367988633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add footer">
+      <created>1584368155569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584368155569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor code" />
+    <MESSAGE value="new file and navigation" />
+    <MESSAGE value="new bootstrap" />
+    <MESSAGE value="add footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add footer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1346" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582901661236">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="722" y="72" key="#Plugins" timestamp="1584444511945">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1346" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1582901661236" />
+    <state x="722" y="72" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1584444511945" />
+    <state x="777" y="8" key="CommitChangelistDialog2" timestamp="1584368154824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="777" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584368154824" />
+    <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1583929188221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583929188221" />
+    <state x="722" y="146" key="Vcs.Push.Dialog.v2" timestamp="1583856449011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583856449011" />
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584444204547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584444204547" />
   </component>
 </project>
