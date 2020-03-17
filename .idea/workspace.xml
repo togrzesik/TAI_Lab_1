@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df319a6f-c160-4fb4-a22e-7fdedda690d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/bootstrapGrid" />
+        <entry key="$PROJECT_DIR$" value="feature/lab3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +67,7 @@
       <workItem from="1583853581750" duration="2928000" />
       <workItem from="1583929145026" duration="55000" />
       <workItem from="1584367327461" duration="2654000" />
-      <workItem from="1584444139148" duration="373000" />
+      <workItem from="1584444139148" duration="1912000" />
     </task>
     <task id="LOCAL-00001" summary="refactor code">
       <created>1583854207301</created>
