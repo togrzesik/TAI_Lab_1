@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: yellowgreen;
 }
@@ -12,4 +16,26 @@ li {
     bottom: 30px;
     right: 30px;
     position: static;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.correct {
+    background-color: #289a27;
+}
+
+.incorrect {
+    background-color: #c41a21;
+}
+
+.buttons {
+    padding: 10px 10px 10px 0;
+}
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
 }
