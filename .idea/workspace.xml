@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df319a6f-c160-4fb4-a22e-7fdedda690d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Quiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +71,7 @@
       <workItem from="1583929145026" duration="55000" />
       <workItem from="1584367327461" duration="2654000" />
       <workItem from="1584444139148" duration="1912000" />
+      <workItem from="1585214828175" duration="1971000" />
     </task>
     <task id="LOCAL-00001" summary="refactor code">
       <created>1583854207301</created>
@@ -107,6 +111,9 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor code" />
     <MESSAGE value="new file and navigation" />
@@ -131,9 +138,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="722" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583856449011" />
-    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584444204547">
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585214853337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584444204547" />
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585214853337" />
+    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog" timestamp="1585158088863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="126" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1585158088863" />
   </component>
 </project>

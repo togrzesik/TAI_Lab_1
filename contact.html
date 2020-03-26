@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <title>Kontakt</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="navbar"></div>
 <form>
 <label for="kontrolka1">Imie</label>
 <input name="nazwa" placeholder="Podaj Imie"
@@ -24,14 +24,13 @@ id="kontrolka1">
 <p>
     <label for="kontrolka4">Plec</label>
     <input type="checkbox" name="nazwa" value="wartosc"
-           checked id="kontrolka4"> Mezczyzna
+           id="kontrolka4"> Mezczyzna
     <input type="checkbox" name="nazwa" value="wartosc"
     id="kontrolka4"> Kobieta
 </p>
 <p>
     <label for="kontrolka5">Opis</label>
-    <textarea rows="4" cols="50" id="kontrolka5">
-        Przykladowy tekst</textarea>
+    <textarea rows="4" cols="50" id="kontrolka5">Przykladowy tekst</textarea>
 </p>
 </textarea>
 <p>
@@ -49,8 +48,10 @@ id="kontrolka1">
         <option value="wartosc1" id="kontrolka7">Panna/Kawaler</option>
         <option value="wartosc2" id="kontrolka7">Zamezna/Zonaty</option>
     </select>
+    <button class="btn btn-primary" type="reset">Wyczyść</button>
+    <button class="btn btn-primary" type="submit">Wyślij</button>
     </form>
 </p>
-<script src="navbar.js"</script>
+<script src="js/navbar.js"></script>
 </body>
 </html>
